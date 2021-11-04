@@ -35,7 +35,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/lhz516/react-h5-audio-player.git"
+    "url": "git+ssh://git@github.com/percrastinate/react-h5-audio-player.git"
   },
   "keywords": [
     "react",
@@ -52,7 +52,7 @@
   "author": "Hanz Luo",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/lhz516/react-h5-audio-player/issues"
+    "url": "https://github.com/percrastinate/react-h5-audio-player/issues"
   },
   "homepage": "https://codepen.io/lhz516/pen/dyGpmgP",
   "peerDependencies": {
